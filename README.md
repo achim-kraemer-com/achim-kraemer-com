@@ -78,8 +78,6 @@ Whether it's REST APIs, e-commerce, B2B portals or custom backend systems – I 
 
 ## 🔥 GitHub Activity Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=achim-kraemer-com&theme=tokyo-night)](https://github.com/dein-github-name)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=achim-kraemer-com&theme=tokyo-night)](https://github.com/achim-kraemer-com)
 
 ---
-
-> ✏️ Ersetze `dein-github-name` durch deinen echten GitHub-Benutzernamen!
