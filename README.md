@@ -26,9 +26,9 @@ Ob REST-API, E-Commerce, B2B-Portale oder individuelle Backends: Ich baue Softwa
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 🔗 **Weitere Links**  
-🌐 Website: [deine-webseite.de](https://deine-webseite.de)  
-💼 LinkedIn: [linkedin.com/in/dein-profil](https://linkedin.com/in/dein-profil)  
-📫 Kontakt: [mail@deinedomain.de](mailto:mail@deinedomain.de)
+🌐 Website: [achim-kraemer.com](https://achim-kraemer.com)  
+💼 LinkedIn: [[linkedin.com/in/dein-profil](https://www.linkedin.com/in/achim-kr%C3%A4mer-a72994213/)](https://[linkedin.com/in/dein-profil](https://www.linkedin.com/in/achim-kr%C3%A4mer-a72994213/))  
+📫 Kontakt: [kontakt@achim-kraemer.com](mailto:kontakt@achim-kraemer.com)
 
 ---
 
@@ -58,9 +58,9 @@ Whether it's REST APIs, e-commerce, B2B portals or custom backend systems – I 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 🔗 **More Links**  
-🌐 Website: [your-website.com](https://your-website.com)  
-💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-📫 Contact: [mail@yourdomain.com](mailto:mail@yourdomain.com)
+🌐 Website: [achim-kraemer.com](https://achim-kraemer.com)
+💼 LinkedIn: [[linkedin.com/in/dein-profil](https://www.linkedin.com/in/achim-kr%C3%A4mer-a72994213/)](https://[linkedin.com/in/dein-profil](https://www.linkedin.com/in/achim-kr%C3%A4mer-a72994213/))  
+📫 Contact: [kontakt@achim-kraemer.com](mailto:kontakt@achim-kraemer.com)
 
 ---
 
