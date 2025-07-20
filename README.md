@@ -8,9 +8,10 @@ Mein Fokus liegt auf **PHP** mit dem Framework **Symfony**, kombiniert mit moder
 - 🧱 **Tailwind CSS**, **SCSS**, **CSS3**, **Bootstrap**
 - ⚙️ **JavaScript**, **jQuery**
 - 🐳 **Docker**, **CI/CD**, **Testing**
-- 🗄️ **MySQL**, **PostgreSQL**
+- 🗄️ **MySQL**, **PostgreSQL**, **BigQuery**
 - 🛠️ **Twig**, **Webpack Encore**, **Stimulus**, **UX-Components**
-- 🧪 **PHPUnit**, **Behat**, **Playwright**, **Jest**
+- 🧪 **PHPUnit**
+- ☁️ **Google-Cloud**
 
 Ich liebe es, komplexe Symfony-Projekte von Grund auf zu realisieren – skalierbar, wartbar und performant.  
 Ob REST-API, E-Commerce, B2B-Portale oder individuelle Backends: Ich baue Software mit Weitblick und Tiefe.
@@ -25,6 +26,19 @@ Ob REST-API, E-Commerce, B2B-Portale oder individuelle Backends: Ich baue Softwa
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+🗄️ **Datenbanken**:  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-big-query&logoColor=white)
+
+🤖 **KI & Automatisierung**:  
+![ChatGPT](https://img.shields.io/badge/ChatGPT-41B883?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-1DBF73?style=for-the-badge&logo=github&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-A6A6A6?style=for-the-badge)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-FF61F6?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM_Workflows-FFD700?style=for-the-badge)
 
 🔗 **Weitere Links**  
 🌐 Website: [achim-kraemer.com](https://achim-kraemer.com)  
@@ -43,9 +57,10 @@ My main focus is on **PHP** with the **Symfony** framework, extended by modern t
 - 🧱 **Tailwind CSS**, **SCSS**, **CSS3**, **Bootstrap**
 - ⚙️ **JavaScript**, **jQuery**
 - 🐳 **Docker**, **CI/CD**, **Testing**
-- 🗄️ **MySQL**, **PostgreSQL**
+- 🗄️ **MySQL**, **PostgreSQL**, **BigQuery**
 - 🛠️ **Twig**, **Webpack Encore**, **Stimulus**, **UX Components**
-- 🧪 **PHPUnit**, **Behat**, **Playwright**, **Jest**
+- 🧪 **PHPUnit**
+- - ☁️ **Google-Cloud**
 
 I enjoy building complex Symfony projects from the ground up – scalable, maintainable, and future-proof.  
 Whether it's REST APIs, e-commerce, B2B portals or custom backend systems – I build software that lasts.
@@ -60,6 +75,19 @@ Whether it's REST APIs, e-commerce, B2B portals or custom backend systems – I 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+🗄️ **Databases**:  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-big-query&logoColor=white)
+
+🤖 **AI & Automation**:  
+![ChatGPT](https://img.shields.io/badge/ChatGPT-41B883?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-1DBF73?style=for-the-badge&logo=github&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-A6A6A6?style=for-the-badge)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-FF61F6?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM_Workflows-FFD700?style=for-the-badge)
 
 🔗 **More Links**  
 🌐 Website: [achim-kraemer.com](https://achim-kraemer.com)
