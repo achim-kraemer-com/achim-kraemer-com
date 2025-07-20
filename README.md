@@ -66,15 +66,15 @@ Whether it's REST APIs, e-commerce, B2B portals or custom backend systems – I 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dein-github-name&show_icons=true&count_private=true&theme=tokyonight&hide=stars)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=achim-kraemer-com&show_icons=true&count_private=true&theme=tokyonight&hide=stars)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dein-github-name&layout=compact&theme=tokyonight&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achim-kraemer-com&layout=compact&theme=tokyonight&langs_count=10)
 
 ---
 
 ## 🔥 GitHub Activity Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dein-github-name&theme=tokyo-night)](https://github.com/dein-github-name)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=achim-kraemer-com&theme=tokyo-night)](https://github.com/dein-github-name)
 
 ---
 
