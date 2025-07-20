@@ -60,7 +60,7 @@ My main focus is on **PHP** with the **Symfony** framework, extended by modern t
 - 🗄️ **MySQL**, **PostgreSQL**, **BigQuery**
 - 🛠️ **Twig**, **Webpack Encore**, **Stimulus**, **UX Components**
 - 🧪 **PHPUnit**
-- - ☁️ **Google-Cloud**
+- ☁️ **Google-Cloud**
 
 I enjoy building complex Symfony projects from the ground up – scalable, maintainable, and future-proof.  
 Whether it's REST APIs, e-commerce, B2B portals or custom backend systems – I build software that lasts.
