@@ -7,7 +7,8 @@ Mein Fokus liegt auf **PHP** mit dem Framework **Symfony**, kombiniert mit moder
 
 - 🧱 **Tailwind CSS**, **SCSS**, **CSS3**, **Bootstrap**
 - ⚙️ **JavaScript**, **jQuery**
-- 🐳 **Docker**, **MySQL**, **PostgreSQL**
+- 🐳 **Docker**, **CI/CD**, **Testing**
+- 🗄️ **MySQL**, **PostgreSQL**
 - 🛠️ **Twig**, **Webpack Encore**, **Stimulus**, **UX-Components**
 - 🧪 **PHPUnit**, **Behat**, **Playwright**, **Jest**
 
@@ -41,7 +42,8 @@ My main focus is on **PHP** with the **Symfony** framework, extended by modern t
 
 - 🧱 **Tailwind CSS**, **SCSS**, **CSS3**, **Bootstrap**
 - ⚙️ **JavaScript**, **jQuery**
-- 🐳 **Docker**, **MySQL**, **PostgreSQL**
+- 🐳 **Docker**, **CI/CD**, **Testing**
+- 🗄️ **MySQL**, **PostgreSQL**
 - 🛠️ **Twig**, **Webpack Encore**, **Stimulus**, **UX Components**
 - 🧪 **PHPUnit**, **Behat**, **Playwright**, **Jest**
 
