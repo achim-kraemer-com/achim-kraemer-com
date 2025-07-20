@@ -16,7 +16,7 @@ Mein Fokus liegt auf **PHP** mit dem Framework **Symfony**, kombiniert mit moder
 Ich liebe es, komplexe Symfony-Projekte von Grund auf zu realisieren – skalierbar, wartbar und performant.  
 Ob REST-API, E-Commerce, B2B-Portale oder individuelle Backends: Ich baue Software mit Weitblick und Tiefe.
 
-📌 **Technologien & Tools**:
+📌 **Technologien & Tools**:  
 ![PHP](https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -65,7 +65,7 @@ My main focus is on **PHP** with the **Symfony** framework, extended by modern t
 I enjoy building complex Symfony projects from the ground up – scalable, maintainable, and future-proof.  
 Whether it's REST APIs, e-commerce, B2B portals or custom backend systems – I build software that lasts.
 
-📌 **Technologies & Tools**:
+📌 **Technologies & Tools**:  
 ![PHP](https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
